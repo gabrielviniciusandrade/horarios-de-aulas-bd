@@ -1,0 +1,15 @@
+No VSCode:
+- Baixar o Database Client e o
+RapidAPI Client
+No Database Client:
+- Criar o seu banco de dados
+com o mesmo nome da variável
+"database" no arquivo db.js
+- Criar a tabela Aula e fazer
+o insert de uma aula
+- Abrir o terminal, digitar:
+   npm i
+   node index.js
+No RapidAPI:
+- usar método GET
+- http://localhost:3000/aula
